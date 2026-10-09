@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+site_config.json
+addresses.txt
+*profile*/
+**/Cookies*
+**/Login Data*
+**/Local State
+*.csv
+!examples/*.example.csv
+*.xlsx
+*.xls
+*.html
+!examples/*.example.html
+*.log
+*.sqlite*
+*.db*
+*.zip
+*.har
+*.png
+*.jpg
+*.jpeg
+*.pdf
+.DS_Store
+Thumbs.db
